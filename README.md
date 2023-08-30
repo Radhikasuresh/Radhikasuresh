@@ -6,15 +6,19 @@
 
 - 🌱 I’m currently learning **Node.js,Angular**
 
+- 🛠️ Proficient in HTML, CSS, JavaScript, and excitedly exploring modern tech like React, Express, and MongoDB, I'm committed to continuous learning and growth.
+
 - 👨‍💻 All of my projects are available at [https://cosmic-nougat-53049d.netlify.app/](https://cosmic-nougat-53049d.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **radhikasuresh550@gmail.com**
+- 📫 Reach out to me at radhikasuresh550@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/radhika-suresh-835a34203/) – I'm always open to interesting discussions, collaboration, and sharing knowledge.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l2DrtxZzhZg2szAu5DclhkY0bGFCwYZx/view?usp=drivesdk](https://drive.google.com/file/d/1l2DrtxZzhZg2szAu5DclhkY0bGFCwYZx/view?usp=drivesdk)
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug🤔🖥**
+
+Keep coding and stay curious! 🤓👩‍💻👨‍💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
