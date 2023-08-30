@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikasuresh&label=Profile%20views&color=0e75b6&style=flat" alt="radhikasuresh" /> </p>
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 I’m currently learning **Node.js,Angular**
 
 - 👨‍💻 All of my projects are available at [https://cosmic-nougat-53049d.netlify.app/](https://cosmic-nougat-53049d.netlify.app/)
 
