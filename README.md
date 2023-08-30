@@ -8,7 +8,7 @@
 
 - 🛠️ Proficient in HTML, CSS, JavaScript, and excitedly exploring modern tech like React, Express, and MongoDB, I'm committed to continuous learning and growth.
 
-- 👨‍💻 All of my projects are available at [https://cosmic-nougat-53049d.netlify.app/](https://cosmic-nougat-53049d.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://cosmic-nougat-53049d.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
