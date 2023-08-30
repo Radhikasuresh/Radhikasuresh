@@ -14,7 +14,7 @@
 
 - 📫 Reach out to me at radhikasuresh550@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/radhika-suresh-835a34203/) – I'm always open to interesting discussions, collaboration, and sharing knowledge.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l2DrtxZzhZg2szAu5DclhkY0bGFCwYZx/view?usp=drivesdk](https://drive.google.com/file/d/1l2DrtxZzhZg2szAu5DclhkY0bGFCwYZx/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l2DrtxZzhZg2szAu5DclhkY0bGFCwYZx/view?usp=drivesdk)
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug🤔🖥**
 
