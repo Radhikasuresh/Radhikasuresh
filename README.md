@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l2DrtxZzhZg2szAu5DclhkY0bGFCwYZx/view?usp=drivesdk](https://drive.google.com/file/d/1l2DrtxZzhZg2szAu5DclhkY0bGFCwYZx/view?usp=drivesdk)
 
-- ⚡ Fun fact **Iam Funny**
+- ⚡ Fun fact ** The first computer “bug” was an actual real-life bug🤔🖥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
