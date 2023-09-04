@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="70" height="30" src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif"/>, I'm Radhika Suresh</h1>
+<h1 align="center">Hi <img width="70" height="50" src="[https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)"/>, I'm Radhika Suresh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
