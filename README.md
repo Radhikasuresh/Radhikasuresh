@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikasuresh&label=Profile%20views&color=0e75b6&style=flat" alt="radhikasuresh" /> </p>
 
-- 🌱 I’m currently learning **Node.js,Next.js,Angular**
+- 🌱 I’m currently learning **Node.js,Next.js,Java**
 
 - 🛠️ Proficient in HTML, CSS, JavaScript, and excitedly exploring modern tech like React, Express, and MongoDB, I'm committed to continuous learning and growth.
 
